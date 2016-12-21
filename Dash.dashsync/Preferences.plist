@@ -109,6 +109,36 @@
 			<key>typeImagePath</key>
 			<string>Bookmark</string>
 		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?topic_id=1627241&amp;language=occ</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>MediaPlayer</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?topic_id=1612667&amp;language=occ</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AudioToolbox</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?topic_id=1612421&amp;language=occ</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AVFoundation</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
 	</array>
 	<key>docsets</key>
 	<dict>

@@ -96,50 +96,9 @@
 	<key>DHWebViewIsDark</key>
 	<false/>
 	<key>annotationsAreShown</key>
-	<true/>
+	<false/>
 	<key>bookmarks</key>
-	<array>
-		<dict>
-			<key>path</key>
-			<string>dash-apple-api://load?request_key=tc2009858</string>
-			<key>platformImagePath</key>
-			<string>apple</string>
-			<key>title</key>
-			<string>UIKit Functions</string>
-			<key>typeImagePath</key>
-			<string>Bookmark</string>
-		</dict>
-		<dict>
-			<key>path</key>
-			<string>dash-apple-api://load?topic_id=1627241&amp;language=occ</string>
-			<key>platformImagePath</key>
-			<string>apple</string>
-			<key>title</key>
-			<string>MediaPlayer</string>
-			<key>typeImagePath</key>
-			<string>Bookmark</string>
-		</dict>
-		<dict>
-			<key>path</key>
-			<string>dash-apple-api://load?topic_id=1612667&amp;language=occ</string>
-			<key>platformImagePath</key>
-			<string>apple</string>
-			<key>title</key>
-			<string>AudioToolbox</string>
-			<key>typeImagePath</key>
-			<string>Bookmark</string>
-		</dict>
-		<dict>
-			<key>path</key>
-			<string>dash-apple-api://load?topic_id=1612421&amp;language=occ</string>
-			<key>platformImagePath</key>
-			<string>apple</string>
-			<key>title</key>
-			<string>AVFoundation</string>
-			<key>typeImagePath</key>
-			<string>Bookmark</string>
-		</dict>
-	</array>
+	<array/>
 	<key>docsets</key>
 	<dict>
 		<key>keywords</key>
@@ -178,6 +137,8 @@
 	<key>profiles</key>
 	<array>
 		<dict>
+			<key>homepage</key>
+			<string>dash-apple-api://load?index_page=1</string>
 			<key>isDefault</key>
 			<true/>
 			<key>name</key>

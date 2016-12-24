@@ -116,6 +116,16 @@
 	<array>
 		<dict>
 			<key>path</key>
+			<string>dash-apple-api://load?topic_id=1613147&amp;language=occ</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>Core Graphics</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
 			<string>dash-apple-api://load?request_key=hc-I2UtavK#</string>
 			<key>platformImagePath</key>
 			<string>apple</string>
@@ -141,16 +151,6 @@
 			<string>apple</string>
 			<key>title</key>
 			<string>NSFileManager</string>
-			<key>typeImagePath</key>
-			<string>Class</string>
-		</dict>
-		<dict>
-			<key>path</key>
-			<string>dash-apple-api://load?request_key=hcZC8VWkhJ#</string>
-			<key>platformImagePath</key>
-			<string>apple</string>
-			<key>title</key>
-			<string>UIApplication</string>
 			<key>typeImagePath</key>
 			<string>Class</string>
 		</dict>

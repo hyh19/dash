@@ -12,7 +12,22 @@
 	<key>DHCocoaRepo</key>
 	<dict>
 		<key>installed</key>
-		<dict/>
+		<dict>
+			<key>YYKit</key>
+			<dict>
+				<key>date</key>
+				<date>2016-12-23T07:11:47Z</date>
+				<key>entry</key>
+				<dict>
+					<key>name</key>
+					<string>YYKit</string>
+					<key>platform</key>
+					<string>cocoapods</string>
+					<key>uniqueIdentifier</key>
+					<string>YYKit</string>
+				</dict>
+			</dict>
+		</dict>
 		<key>uninstalled</key>
 		<dict/>
 	</dict>
@@ -98,13 +113,66 @@
 	<key>annotationsAreShown</key>
 	<false/>
 	<key>bookmarks</key>
-	<array/>
+	<array>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hc-I2UtavK#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>UIBezierPath</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcJE5yY11p#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>UIFontDescriptor</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcQQiy1kjA#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>NSFileManager</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcZC8VWkhJ#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>UIApplication</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?topic_id=1614525&amp;language=occ&amp;usr=c%3Aobjc%28pl%29UITextInput</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>UITextInput</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+	</array>
 	<key>docsets</key>
 	<dict>
 		<key>keywords</key>
 		<dict>
+			<key>~/Library/Application Support/Dash/Cocoa DocSets/YYKit/com.cocoadocs.yykit.YYKit.docset</key>
+			<string>yykit</string>
 			<key>~/Library/Application Support/Dash/DocSets/Apple_API_Reference/Apple_API_Reference.docset</key>
-			<string>apple:</string>
+			<string>ios</string>
 		</dict>
 	</dict>
 	<key>feeds</key>

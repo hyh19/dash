@@ -116,6 +116,36 @@
 	<array>
 		<dict>
 			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcVaEW_Y75#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>UIGestureRecognizer</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcfkjoOZkS#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>UIControl</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcdMNkqZV4#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>UIBarButtonItem</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
 			<string>dash-apple-api://load?topic_id=1613147&amp;language=occ</string>
 			<key>platformImagePath</key>
 			<string>apple</string>

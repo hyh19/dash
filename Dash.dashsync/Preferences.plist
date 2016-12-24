@@ -286,6 +286,12 @@
 				</dict>
 			</array>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>YYKit</string>
+			<key>searchSnippets</key>
+			<true/>
+		</dict>
 	</array>
 	<key>searchKey</key>
 	<dict>

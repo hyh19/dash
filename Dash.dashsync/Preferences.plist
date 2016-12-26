@@ -116,6 +116,16 @@
 	<array>
 		<dict>
 			<key>path</key>
+			<string>dash-apple-api://load?request_key=tc1657527</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>Objective-C Runtime +1</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
 			<string>file://~/Library/Developer/Shared/Documentation/DocSets/com.apple.adc.documentation.docset/Contents/Resources/Documents/documentation/General/Conceptual/Devpedia-CocoaApp/TargetAction.html#//apple_ref/doc/uid/TP40009071-CH3</string>
 			<key>platformImagePath</key>
 			<string>Dash</string>
@@ -200,7 +210,7 @@
 			<key>platformImagePath</key>
 			<string>apple</string>
 			<key>title</key>
-			<string>UIControl+1</string>
+			<string>UIControl +1</string>
 			<key>typeImagePath</key>
 			<string>Class</string>
 		</dict>

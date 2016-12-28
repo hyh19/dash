@@ -111,16 +111,26 @@
 	<key>DHWebViewIsDark</key>
 	<false/>
 	<key>annotationsAreShown</key>
-	<false/>
+	<true/>
 	<key>bookmarks</key>
 	<array>
+		<dict>
+			<key>path</key>
+			<string>file://~/Library/Developer/Shared/Documentation/DocSets/com.apple.adc.documentation.docset/Contents/Resources/Documents/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008048</string>
+			<key>platformImagePath</key>
+			<string>Dash</string>
+			<key>title</key>
+			<string>Guide/Runtime +1</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
 		<dict>
 			<key>path</key>
 			<string>dash-apple-api://load?request_key=tc1657527</string>
 			<key>platformImagePath</key>
 			<string>apple</string>
 			<key>title</key>
-			<string>Objective-C Runtime +1</string>
+			<string>API/Runtime +1</string>
 			<key>typeImagePath</key>
 			<string>Bookmark</string>
 		</dict>
@@ -133,6 +143,16 @@
 			<string>Target-Action</string>
 			<key>typeImagePath</key>
 			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcjVj4h-wP#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>NSInvocation</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
 		</dict>
 		<dict>
 			<key>path</key>

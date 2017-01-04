@@ -116,6 +116,16 @@
 	<array>
 		<dict>
 			<key>path</key>
+			<string>file://~/Library/Developer/Shared/Documentation/DocSets/com.apple.adc.documentation.docset/Contents/Resources/Documents/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html#//apple_ref/doc/uid/TP40014132</string>
+			<key>platformImagePath</key>
+			<string>Dash</string>
+			<key>title</key>
+			<string>Testing with Xcode</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
 			<string>file://~/Library/Developer/Shared/Documentation/DocSets/com.apple.adc.documentation.docset/Contents/Resources/Documents/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/00_Introduction.html</string>
 			<key>platformImagePath</key>
 			<string>Dash</string>

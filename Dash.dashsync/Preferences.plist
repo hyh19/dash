@@ -116,6 +116,66 @@
 	<array>
 		<dict>
 			<key>path</key>
+			<string>file://~/Library/Developer/Shared/Documentation/DocSets/com.apple.adc.documentation.docset/Contents/Resources/Documents/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/00_Introduction.html</string>
+			<key>platformImagePath</key>
+			<string>Dash</string>
+			<key>title</key>
+			<string>AVFoundation Programming Guide</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcfRXwco8k#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AVCaptureConnection</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcKoFfStfV#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AVCaptureVideoPreviewLayer</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hc6yOD4aUe#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AVCaptureOutput</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcrrNWnNL6#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AVCaptureInput</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hchT_62A4O#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AVCaptureSession</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
 			<string>dash-apple-api://load?request_key=hcOn9yDrEf#</string>
 			<key>platformImagePath</key>
 			<string>apple</string>

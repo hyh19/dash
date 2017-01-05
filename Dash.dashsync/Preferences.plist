@@ -116,6 +116,86 @@
 	<array>
 		<dict>
 			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcswzCrt_0</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>PHPhotoLibrary</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?topic_id=1613732&amp;language=occ</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>Photos</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hc1fEkKpHr#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AVCapturePhotoCaptureDelegate</string>
+			<key>typeImagePath</key>
+			<string>Protocol</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcL3NkF6wD#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AVCapturePhotoSettings</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcKoFfStfV#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AVCaptureVideoPreviewLayer</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hchT_62A4O#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AVCaptureSession</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcsz57YexF#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AVCapturePhotoOutput</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
+			<string>dash-apple-api://load?request_key=hcMbcYoZiD#</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>AVMutableAudioMix</string>
+			<key>typeImagePath</key>
+			<string>Class</string>
+		</dict>
+		<dict>
+			<key>path</key>
 			<string>file://~/Library/Developer/Shared/Documentation/DocSets/com.apple.adc.documentation.docset/Contents/Resources/Documents/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html#//apple_ref/doc/uid/TP40014132</string>
 			<key>platformImagePath</key>
 			<string>Dash</string>
@@ -146,16 +226,6 @@
 		</dict>
 		<dict>
 			<key>path</key>
-			<string>dash-apple-api://load?request_key=hcKoFfStfV#</string>
-			<key>platformImagePath</key>
-			<string>apple</string>
-			<key>title</key>
-			<string>AVCaptureVideoPreviewLayer</string>
-			<key>typeImagePath</key>
-			<string>Class</string>
-		</dict>
-		<dict>
-			<key>path</key>
 			<string>dash-apple-api://load?request_key=hc6yOD4aUe#</string>
 			<key>platformImagePath</key>
 			<string>apple</string>
@@ -171,16 +241,6 @@
 			<string>apple</string>
 			<key>title</key>
 			<string>AVCaptureInput</string>
-			<key>typeImagePath</key>
-			<string>Class</string>
-		</dict>
-		<dict>
-			<key>path</key>
-			<string>dash-apple-api://load?request_key=hchT_62A4O#</string>
-			<key>platformImagePath</key>
-			<string>apple</string>
-			<key>title</key>
-			<string>AVCaptureSession</string>
 			<key>typeImagePath</key>
 			<string>Class</string>
 		</dict>

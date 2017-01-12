@@ -116,6 +116,16 @@
 	<array>
 		<dict>
 			<key>path</key>
+			<string>file://~/Library/Developer/Shared/Documentation/DocSets/com.apple.adc.documentation.docset/Contents/Resources/Documents/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html</string>
+			<key>platformImagePath</key>
+			<string>apple</string>
+			<key>title</key>
+			<string>Objective-C Runtime Programming Guide</string>
+			<key>typeImagePath</key>
+			<string>Bookmark</string>
+		</dict>
+		<dict>
+			<key>path</key>
 			<string>file://~/Library/Application%20Support/Dash/DocSets/C/C.docset/Contents/Resources/Documents/output/en/c/language/sizeof.html#Literals</string>
 			<key>platformImagePath</key>
 			<string>c</string>
@@ -563,16 +573,6 @@
 			<string>UIImagePickerController</string>
 			<key>typeImagePath</key>
 			<string>Class</string>
-		</dict>
-		<dict>
-			<key>path</key>
-			<string>file://~/Library/Developer/Shared/Documentation/DocSets/com.apple.adc.documentation.docset/Contents/Resources/Documents/documentation/Cocoa/Conceptual/ObjCRuntimeGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008048</string>
-			<key>platformImagePath</key>
-			<string>Dash</string>
-			<key>title</key>
-			<string>Guide/Runtime +1</string>
-			<key>typeImagePath</key>
-			<string>Bookmark</string>
 		</dict>
 		<dict>
 			<key>path</key>

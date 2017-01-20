@@ -716,6 +716,11 @@
 				<key>date</key>
 				<date>2016-12-10T08:38:39Z</date>
 			</dict>
+			<key>http://kapeli.com/feeds/Cocos2D-X.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2017-01-16T07:53:43Z</date>
+			</dict>
 		</dict>
 		<key>uninstalled</key>
 		<dict/>

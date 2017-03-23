@@ -1167,26 +1167,7 @@
 		</dict>
 		<dict>
 			<key>docsets</key>
-			<array>
-				<string>~/Library/Application Support/Dash/DocSets/Bash/Bash.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/HTML/HTML.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/CSS/CSS.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/Java_EE7/Java EE7.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/Java_SE7/Java.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/Markdown/Markdown.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/MySQL/MySQL.docset</string>
-				<string>~/Library/Application Support/Dash/Cheat Sheets/ObjectiveC Compiler Directives/Objective-C_@Compiler_Directives.docset</string>
-				<string>~/Library/Application Support/Dash/Cheat Sheets/ObjectiveC Blocks/Objective-C_Blocks.docset</string>
-				<string>~/Library/Application Support/Dash/Cheat Sheets/ObjectiveC/Objective-C.docset</string>
-				<string>~/Library/Application Support/Dash/Cheat Sheets/NSPredicate/NSPredicate.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/Java_SE8/Java.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/Ruby_2/Ruby.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/Spring_Framework/Spring Framework.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/Vim/Vim.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/Man_Pages/Man Pages.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/Boost/Boost.docset</string>
-				<string>~/Library/Application Support/Dash/DocSets/JavaScript/JavaScript.docset</string>
-			</array>
+			<array/>
 			<key>icon</key>
 			<string>Snippet</string>
 			<key>name</key>

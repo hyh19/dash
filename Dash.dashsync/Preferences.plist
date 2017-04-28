@@ -6,6 +6,24 @@
 	<dict>
 		<key>installed</key>
 		<dict>
+			<key>Bash_Shortcuts</key>
+			<dict>
+				<key>date</key>
+				<date>2017-04-03T12:48:58Z</date>
+				<key>entry</key>
+				<dict>
+					<key>aliases</key>
+					<array>
+						<string>terminal shell bash</string>
+					</array>
+					<key>name</key>
+					<string>Bash Shortcuts</string>
+					<key>platform</key>
+					<string>cheatsheet</string>
+					<key>uniqueIdentifier</key>
+					<string>Bash_Shortcuts</string>
+				</dict>
+			</dict>
 			<key>Git</key>
 			<dict>
 				<key>date</key>
@@ -439,7 +457,7 @@
 	<key>DHWebViewIsDark</key>
 	<false/>
 	<key>annotationsAreShown</key>
-	<true/>
+	<false/>
 	<key>bookmarks</key>
 	<array>
 		<dict>
@@ -1104,6 +1122,11 @@
 				<key>date</key>
 				<date>2017-03-16T07:00:48Z</date>
 			</dict>
+			<key>http://kapeli.com/feeds/Nginx.xml</key>
+			<dict>
+				<key>date</key>
+				<date>2017-04-16T07:50:15Z</date>
+			</dict>
 			<key>http://kapeli.com/feeds/PHP.xml</key>
 			<dict>
 				<key>date</key>
@@ -1212,11 +1235,11 @@
 		<integer>8395520</integer>
 	</dict>
 	<key>shouldRestoreTabs</key>
-	<false/>
+	<true/>
 	<key>shouldShowStatusIcon</key>
 	<false/>
 	<key>shouldStartAtLogin</key>
-	<true/>
+	<false/>
 	<key>shouldSyncBookmarks</key>
 	<true/>
 	<key>shouldSyncDocsets</key>
@@ -1232,7 +1255,7 @@
 	<key>showSearchFallbacks</key>
 	<true/>
 	<key>sortDocsetsAlphabetically</key>
-	<true/>
+	<false/>
 	<key>versionedDHCheatRepo</key>
 	<dict>
 		<key>installed</key>

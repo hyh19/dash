@@ -9,7 +9,7 @@
 			<key>Bash_Shortcuts</key>
 			<dict>
 				<key>date</key>
-				<date>2017-04-03T12:48:58Z</date>
+				<date>2017-12-02T14:50:53Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -27,7 +27,7 @@
 			<key>Git</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-08T03:32:27Z</date>
+				<date>2017-12-02T14:50:51Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -48,7 +48,7 @@
 			<key>Git_Flow</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-08T03:32:30Z</date>
+				<date>2017-12-02T14:50:54Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -69,7 +69,7 @@
 			<key>Git_Subversion</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-08T03:32:32Z</date>
+				<date>2017-12-02T14:50:52Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -95,7 +95,7 @@
 			<key>HTML_Entities</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-08T03:32:36Z</date>
+				<date>2017-12-02T14:50:53Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -111,7 +111,7 @@
 			<key>HTML_Head_Elements</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-08T03:32:39Z</date>
+				<date>2017-12-02T14:50:55Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -127,7 +127,7 @@
 			<key>HTTP_Header_Fields</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-08T03:32:39Z</date>
+				<date>2017-12-02T14:50:52Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -143,7 +143,7 @@
 			<key>HTTP_Status_Codes</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-08T03:32:40Z</date>
+				<date>2017-12-02T14:50:51Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -159,7 +159,7 @@
 			<key>HTTP_Status_Codes_Rails</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-08T03:32:41Z</date>
+				<date>2017-12-02T14:50:52Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -180,7 +180,7 @@
 			<key>NSPredicate</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-16T07:02:17Z</date>
+				<date>2017-12-02T14:50:54Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -209,7 +209,7 @@
 			<key>Objective-C</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-16T07:02:15Z</date>
+				<date>2017-12-02T14:50:51Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -237,7 +237,7 @@
 			<key>Objective-C_@Compiler_Directives</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-16T07:02:10Z</date>
+				<date>2017-12-02T14:50:51Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -265,7 +265,7 @@
 			<key>Objective-C_Blocks</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-16T07:02:13Z</date>
+				<date>2017-12-02T14:50:52Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -293,7 +293,7 @@
 			<key>Sublime_Text_3</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-08T03:33:17Z</date>
+				<date>2017-12-02T14:50:52Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -309,7 +309,7 @@
 			<key>Vim</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-08T03:33:22Z</date>
+				<date>2017-12-02T14:50:52Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -325,7 +325,7 @@
 			<key>Xcode_Shortcuts</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-08T03:33:25Z</date>
+				<date>2017-12-02T14:50:53Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -1055,7 +1055,7 @@
 			<key>http://kapeli.com/feeds/Bash.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2017-03-16T06:56:49Z</date>
+				<date>2017-12-02T14:50:56Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Boost.xml</key>
 			<dict>
